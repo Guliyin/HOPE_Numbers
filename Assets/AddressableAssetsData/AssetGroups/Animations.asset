@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animations
+  m_EditorClassIdentifier: 
+  m_GroupName: Animations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 47a4702bc1e0ea0418bcd71dec286de2
+  m_SerializeEntries:
+  - m_GUID: 154fc2e38c294cf4a95cb9d655c7c796
+    m_Address: Egglet_Anim_Collaboration
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Alphabet
+  - m_GUID: 8e665786d74d18a4481c69d82074f725
+    m_Address: Egglet_Anim_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9337546b0ac3fe245a15fd16dff1e6de
+    m_Address: Egglet_Anim_RightAnswer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fb4bf2786aa70c44bbcff8038d9abdf
+    m_Address: Egglet_Anim_WrongAnswer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8323c0b76795f9d4082293632dda911b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c7dad4fda30970e4ebf3746d43b76b1b, type: 2}
+    - {fileID: 11400000, guid: e890fc09012094e4e97bdfdf4fe027c1, type: 2}
