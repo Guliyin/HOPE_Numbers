@@ -57,16 +57,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\EventSystem\FunctionType.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\CharacterAnimationMgr.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\EventList.cs" />
     <Compile Include="Assets\Scripts\AudioMgr.cs" />
     <Compile Include="Assets\Scripts\EggletAnimation\AnimScriptableObject.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\CharacterAnimationController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\NumberFactory.cs" />
-    <Compile Include="Assets\Scripts\EggletAnimation\EggletMgr.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\EggletAnimationMgr.cs" />
     <Compile Include="Assets\Scripts\GameMgr.cs" />
     <Compile Include="Assets\Scripts\Number.cs" />
     <Compile Include="Assets\Scripts\EventSystem\EventCenter.cs" />
-    <Compile Include="Assets\Scripts\EggletAnimation\EggletController.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\EggletAnimationController.cs" />
     <Compile Include="Assets\Scripts\UIController.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\ZiggyAnimationController.cs" />
+    <Compile Include="Assets\Scripts\EggletAnimation\ZiggyAnimationMgr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

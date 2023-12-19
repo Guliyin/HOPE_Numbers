@@ -16,23 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: c6d4096c58cb5e9429099453d4ff5806
-  m_SerializeEntries:
-  - m_GUID: ba0018b0f760d1e41885b1e6099e7052
-    m_Address: Yellow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: caf53d66349eeb94d8eb8de3dd1adf53
-    m_Address: Yellow/TestRedCube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 2ead6f2d6f4ae7c40ae213642be09aec
-    m_Address: Yellow/TestZCube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 7954bb736758c1947a909632ec771e70
-    m_Address: Yellow/TestYellowCube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8323c0b76795f9d4082293632dda911b, type: 2}
   m_SchemaSet:

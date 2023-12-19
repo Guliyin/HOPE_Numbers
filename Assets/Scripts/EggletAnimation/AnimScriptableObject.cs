@@ -4,10 +4,7 @@ using UnityEngine;
 
 public class AnimScriptableObject : ScriptableObject
 {
-    //public List<string> idleAnim = new List<string>();
-    //public List<string> correctAnim = new List<string>();
-    //public List<string> wrongAnim = new List<string>();
-
+    public string characterName;
     public string[] idleAnim;
     public string[] correctAnim;
     public string[] wrongAnim;

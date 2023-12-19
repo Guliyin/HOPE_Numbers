@@ -34,6 +34,18 @@ MonoBehaviour:
     m_Address: Egglet_Anim_WrongAnswer
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 7adc3f82816206842ac160790ba57e32
+    m_Address: Ziggy_Anim_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51dc3c78b2bfa3f4cbba25ea8a5d313e
+    m_Address: Ziggy_Anim_RightAnswer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c1b09ea5c1c25642bfa3a36ec24ba84
+    m_Address: Ziggy_Anim_WrongAnswer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8323c0b76795f9d4082293632dda911b, type: 2}
   m_SchemaSet:
